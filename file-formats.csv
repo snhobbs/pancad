@@ -1,0 +1,61 @@
+"format","type","extensions",
+"step","solid","import",".stp, .step, .stpnc, .p21, .210"
+"3D Studio mesh","solid","import",".3ds"
+"Alias mesh","solid","import",".obj"
+"Autodesk DWG 2D ","2d","import",".dwg"
+"Autodesk DXF 2D","2d","import",".dxf"
+"BREP format","solid","import",".brep, .brp"
+"Binary mesh","mesh","import",".bms"
+"Vector format image file","2d","import",".svg, .svgz"
+"IGES","solid","import","*.iges, *.igs"
+"Inventor V2.1","solid","import","*.iv"
+"Object file format mesh","mesh","import","*.off"
+"STEP with color","solid","import","*.step, *.stp"
+"STEP Zip","solid","import","*.stpZ, *.stpz"
+"STL mesh","mesh","import","*.stl, *.ast"
+"SVG geometry data","2d","import","*.svg"
+"Shape file ","solid","import","*.shp"
+"Simple model format","solid","import","*.smf"
+"Stanford triangular mesh","mesh","import","*.ply"
+"VRML V2.0,""solid","import","*.wrl, *.vrml, *.wrz, *.wrl.gz"
+"OpenSCAD","solid, 2d","import","*.scad"
+"3D manufacturing format",,,"*.3mf"
+"Additive manufacturing format",,,"*.amf"
+"Alias mesh",,,"*.obj"
+"Autodesk DWG 2D (*.dwg)",,,
+"Autodesk DXF 2D (*.dxf)",,,
+"BREP format (*.brep, *.brp)",,,
+"Binary mesh (*.bms)",,,
+"Collada (*.dae)",,,
+"Vector format image file (*.svg, *.svgz, *.dxf)",,,
+"FEM mesh Fenics (*.xml, *.xdmf)",,,
+"FEM mesh Python (*.meshpy)",,,
+"FEM mesh TetGen (*.poly)",,,
+"FEM mesh YAML/JSON (*.meshyaml, *.meshjson, *.yaml, *.json)",,,
+"FEM mesh Z88 (*i1.txt)",,,
+"FEM mesh format (*.dat, *.inp, *.med, *.stl, *.unv, *.vtk, *.vtu, *.z88)",,,
+"FEM result VTK (*.vtk, *.vtu)",,,
+"Flattened SVG (*.svg)",,,
+"IGES (*.iges, *.igs)",,,
+"Industry Foundation Classes (*.ifc)",,,
+"Industry Foundation Classes - IFCJSON (*.ifcJSON)",,,
+"Inventor V2.1 (*.iv)",,,
+"JavaScript Object notation (*.json)",,,
+"Object file format mesh (*.off)",,,
+"Open CAD (*.oca)",,,
+"OpenSCAD CSG (*.csg)",,,
+"OpenSCAD (*.scad)",,,
+"Points data (*.asc, *.pcd, *.ply)",,,
+"PDF (*.pdf)",,,
+"STEP with color (*.step, *.stp)",,,
+"STEP Zip (*.stpZ, *.stpz)",,,
+"STL mesh (*.stl, *.ast)",,,
+"Simple model format (*.smf)",,,
+"Stanford triangular mesh (*.ply)",,,
+"Technical drawing (*.svg, *.dxf, *.pdf)",,,
+"VRML V2.0 (*.wrl, *.vrml, *wrz, *.wrl.gz)",,,
+"Wavefront OBJ - Arch workbench (*.obj)",,,
+"WebGL (*.html)",,,
+"WebGL/X3D (*.xhtml)",,,
+"X3D Extensible 3D (*.x3d, *.x3dz)",,,
+"glTF (*.glTF, *.glb)",,,
